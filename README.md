@@ -1,4 +1,4 @@
-# Crypto Project
+# MarketPluse
 
 ## Overview
 This is a Flask-based cryptocurrency dashboard application. It includes features for market data, news analysis, sentiment analysis, and a chatbot.
