@@ -12,7 +12,7 @@ This is a Flask-based cryptocurrency dashboard application. It includes features
    Open your terminal/command prompt and navigate to the project folder.
 
 2. **Navigate to the backend**
-   The core application logic lives in the `backend` folder.
+   The core application logic lives in the `backend` folder..
    ```bash
    cd backend
    ```
@@ -38,3 +38,4 @@ This is a Flask-based cryptocurrency dashboard application. It includes features
 ## Project Structure
 - `backend/`: contains the Flask app and Python logic.
 - `frontend/`: contains HTML templates and static files (CSS, JS).
+
