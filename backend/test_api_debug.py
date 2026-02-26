@@ -1,9 +1,5 @@
 import requests
 url = "https://cryptopanic.com/api/developer/v2/posts/?auth_token=f833355d415afb4d8f92b1e6efaf89272d78c890"
-import os
-
-token = os.getenv("CRYPTOPANIC_API_KEY", "")
-url = f"https://cryptopanic.com/api/developer/v2/posts/?auth_token={token}"
 try:
     res = requests.get(url, timeout=10).json()
     if 'results' in res and len(res['results']) > 0:
