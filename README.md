@@ -38,3 +38,20 @@ This is a Flask-based cryptocurrency dashboard application. It includes features
 ## Project Structure
 - `backend/`: contains the Flask app and Python logic.
 - `frontend/`: contains HTML templates and static files (CSS, JS).
+
+---
+
+
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 📊 Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📰 Latest News
+![News](screenshots/news.png)
+
+### 🤖 AI Bot
+![AI Bot](screenshots/chat.png)
