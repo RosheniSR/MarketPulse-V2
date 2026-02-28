@@ -1,9 +1,18 @@
-1. open terminal
+1. OPEN TERMINAL 
 2. cd backend
 3. python3 app.py
 
 
-if already not setup 
+IF ALREADY NOT SET-UP 
 cd backend
 pip3 install -r requirements.txt
 python3 run.py
+
+STEP 1 — Activate venv again
+source venv/bin/activate
+Then you will see:    (venv)
+
+STEP 2 — If Python interpreter is not auto-selected
+Cmd + Shift + P
+Select:     Python: Select Interpreter
+Choose:     ./venv/bin/python
